@@ -17,7 +17,7 @@
     <!-- Custom settings dashboard -->
     <string name="header_category_custom">ROM Control</string>
     <!-- SiX Settings title and summary -->
-    <string name="six_settings_title">S.i.X Settings</string>
+    <string name="six_settings_title">SiX Settings</string>
     <string name="six_settings_summary">Extra settings and tweaks</string>
     <!-- SuperSU dashboard title and summary -->
     <string name="supersu_title">SuperSU</string>
@@ -32,7 +32,7 @@
     <string name="magisk_title">Magisk Manager</string>
     <string name="magisk_summary">Control root modules and settings</string>
     <!-- SiXROM version -->
-    <string name="six_version">S.i.X version</string>
+    <string name="six_version">SiX version</string>
     <string name="six_version_default">Unknown</string>
     <!-- Vendor number -->
     <string name="vendor_number">Vendor number</string>
@@ -242,7 +242,7 @@
     <string name="changelog_summary">Since the last update</string>
     <string name="changelog_error">Unable to load changelog</string>
     <!-- Nexus about -->
-    <string name="nexus_about">S.i.X Center</string>
+    <string name="nexus_about">SiXROM Center</string>
     <string name="nexus_about_summary">OTA updates, changelog and extra links</string>
     <string name="nexus_useful">About ROM</string>
     <string name="sixrom_sixscreens">Screenshots</string>
@@ -254,7 +254,7 @@
     <string name="pushbullet_sum">News and announcements</string>
     <string name="six_github">GitHub</string>
     <string name="github_sum">Build rom from source</string>
-    <string name="contribute">S.i.X official developer</string>
+    <string name="contribute">SiXROM official developer</string>
     <string name="r3ds">Frankie T (R3Ds)</string>
     <string name="r3ds_sum">Owner/maintainer</string>
     <string name="donate">Donate via PayPal</string>
