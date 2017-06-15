@@ -18,11 +18,11 @@
         xmlns:settings="http://schemas.android.com/apk/res-auto"
         android:title="@string/about_settings">
 
-        <!-- SiXROM Header Logo -->
+        <!-- SoSROM Header Logo -->
         <PreferenceScreen android:key="six_header"
             android:layout="@layout/about_header_row">
             <intent android:action="android.intent.action.VIEW"
-            android:data="https://plus.google.com/u/0/communities/108198916369516028494" />
+            android:data="https://plus.google.com/u/0/communities/101064337076160124408" />
         </PreferenceScreen>
 
         <!-- Device status - launches activity -->

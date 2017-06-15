@@ -49,7 +49,7 @@
             android:summary="@string/sixscreens_sum">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://drive.google.com/drive/folders/0B3EKKJ3Wzt6LOVNGTnkxUmJPRjg?usp=sharing" />
+                android:data="https://drive.google.com/drive/folders/0B3EKKJ3Wzt6LS093X1RXU3ZkUkE?usp=sharing" />
         </Preference>
 
         <Preference
@@ -57,7 +57,7 @@
             android:summary="@string/rompapers_sum">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://drive.google.com/drive/folders/0B3EKKJ3Wzt6LZUVnTndaOHlmRTA?usp=sharing" />
+                android:data="https://drive.google.com/drive/folders/0B3EKKJ3Wzt6LX01GdEo2Z200X00?usp=sharing" />
         </Preference>
 
         <Preference
@@ -65,16 +65,16 @@
             android:summary="@string/github_sum">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://github.com/SiXROM" />
+                android:data="https://github.com/SoS-ROM" />
         </Preference>
 
-        <Preference
+        <!-- <Preference
             android:title="@string/pushbullet_updates"
             android:summary="@string/pushbullet_sum">
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://www.pushbullet.com/channel?tag=sixrom" />
-        </Preference>
+        </Preference> -->
 
     </PreferenceCategory>
 
